@@ -1,5 +1,5 @@
 from django.contrib import admin
-from sasafras.dnbkblue.models import Bushinkan_dojo, Id_dojo, Bushinkan_yudansha, Bushinkan_yukyusha, Id_yudansha, Id_yukyusha
+from acadia.dnbkblue.models import Bushinkan_dojo, Id_dojo, Bushinkan_yudansha, Bushinkan_yukyusha, Id_yudansha, Id_yukyusha
 	
 	
 

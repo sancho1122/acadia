@@ -1,4 +1,4 @@
-# Django settings for sasafras project.
+# Django settings for acadia project.
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -100,7 +100,7 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.messages.middleware.MessageMiddleware',
 )
 
-ROOT_URLCONF = 'sasafras.urls'
+ROOT_URLCONF = 'acadia.urls'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
@@ -119,7 +119,7 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
     'django.contrib.admindocs',
-    'sasafras.dnbkblue',
+    'acadia.dnbkblue',
 )
 
 # A sample logging configuration. The only tangible logging
